@@ -3,7 +3,7 @@
 **Frontend Engineer | React & Next.js Specialist**
 Lagos, Nigeria · Open to remote opportunities
 
-3+ years building production frontend applications with React, Next.js, and TypeScript — with a focus on API integration, authentication, and state management. Currently leading frontend development on a football statistics platform in production.
+6+ years building production frontend applications with React, Next.js, and TypeScript — with a focus on API integration, authentication, and state management. Currently leading frontend development on a football statistics platform in production.
 
 ---
 
